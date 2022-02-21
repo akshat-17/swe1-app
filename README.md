@@ -1,5 +1,5 @@
 # swe1-app
 Software Engineering Django project
 
-Deployed on Heroku
+Deployed on Heroku.
 Link: http://akshatshah.herokuapp.com/polls/
