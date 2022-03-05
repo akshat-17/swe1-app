@@ -3,4 +3,3 @@ Software Engineering Django project
 
 Deployed on Heroku.
 Link: http://akshatshah.herokuapp.com/polls/
-Hello
