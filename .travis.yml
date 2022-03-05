@@ -15,7 +15,11 @@ before_script:
 
 script:
   - black --check .
+<<<<<<< Updated upstream
   - flake8
+=======
+  - flake8 
+>>>>>>> Stashed changes
   - coverage run --source=polls manage.py test
 
 after_script:
